@@ -1,0 +1,1 @@
+{"name":"ai-ethics-survey","version":"1.0.0","private":true,"type":"module","scripts":{"dev":"vite","build":"vite build","preview":"vite preview","test":"node --test"},"devDependencies":{"vite":"^7.2.2"},"engines":{"node":">=22.12.0"}}
